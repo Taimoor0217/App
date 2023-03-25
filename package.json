@@ -78,7 +78,7 @@
     "lottie-react-native": "^5.1.5",
     "metro-config": "^0.71.3",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.41",
     "onfido-sdk-ui": "10.4.0",
     "process": "^0.11.10",
     "prop-types": "^15.7.2",
