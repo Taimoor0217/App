@@ -119,7 +119,7 @@
     "react-plaid-link": "3.3.2",
     "react-web-config": "^1.0.0",
     "save": "^2.4.0",
-    "semver": "^7.3.8",
+    "semver": "^7.5.2",
     "shim-keyboard-event-key": "^1.0.3",
     "underscore": "^1.13.1",
     "urbanairship-react-native": "^14.6.1"
